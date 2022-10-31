@@ -4,18 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a sophomore student at School of Future Science and Technology of Soochow University which located in Suzhou, Jiangsu Province, China.
+I am a postgraduate student at School of Future Science and Technology of Soochow University which located in Suzhou, Jiangsu Province, China.
 
 ## Research Interests
 
-- **Smart Cockpit:** domestic large computing chips such as Journey 5, intelligent driving perception
+- **Smart Cockpit:** Domestic large computing chips such as Journey 5, intelligent driving perception
 reference algorithms
 - **Intelligent Driving:** L3 and above, visual fatigue detection algorithms
 
 ## News
 
-- **[OCT 25th, 2022]**  Passed College English Test Band 6.
-- **[OCT 11th, 2022]**  Professor Cong Yang led five undergraduates(**Chenyu Zhu**, Junqi Xu, Cong Qian, Xinyu Yang, Ruoxi Sun) to establish [the BeeLab](https://xinyu1213.github.io).🎉✨ The five members are: Cong Qian, Xinyu Yang, Ruoxi Sun.
+- **[OCT. 2022]** I joined the BeeLab team.
 - **[DEC. 2022]** To be updated.
 - **[Mar. 2022]** To be updated.
 
