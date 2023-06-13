@@ -14,13 +14,11 @@ reference algorithms
 
 ## News
 
-- **[OCT. 2022]** I joined the BeeLab team.
-- **[DEC. 2022]** To be updated.
-- **[Mar. 2022]** To be updated.
+- To be updated.
 
 ## Projects
 
-- **There are 🈚️ Projects yet...**
+- **There are no Projects yet...**
 
 <!-- - **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**   我把它注释掉了，等有项目了再加，保留了源代码
   <br>
